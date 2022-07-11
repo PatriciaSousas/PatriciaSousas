@@ -1,7 +1,7 @@
 ### Oi! Eu sou a Patricia 
 
 
-- 🔭Atualmente estou trabalhando com Business Intelligence e Data Analyst
+- 🔭Atualmente trabalho com Business Intelligence e Data Analyst
 - 🌱 Estudando Machine Learning e Estatistica
 - 👩‍💻 Adoro tecnologia, Inovação e Ciência de dados
 - 📧 Fale comigo: patriciatamiresdesousa@gmail.com
