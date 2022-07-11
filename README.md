@@ -17,12 +17,12 @@
   
   </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-anaconda" height="20" width="30" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg">
-  <img align="center" alt="Rafa-Git" height="20" width="30" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg">
-  <img align="center" alt="Rafa-Jupyter height="20" width="30" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg">
-  <img align="center" alt="Rafa-R" height="20" width="30" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg">
-  <img align="center" alt="Rafa-Python" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   <img align="center" alt="Rafa-PostgreSQL" height="20" width="30" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
+  <img align="center" alt="Rafa-anaconda" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg">
+  <img align="center" alt="Rafa-Git" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg">
+  <img align="center" alt="Rafa-Jupyter height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg">
+  <img align="center" alt="Rafa-R" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img align="center" alt="Rafa-PostgreSQL" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
   
   
        
