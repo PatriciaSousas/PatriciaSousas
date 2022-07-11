@@ -4,6 +4,7 @@
 - 🔭Atualmente estou trabalhando com Business Intelligence e Data Analyst
 - 🌱 Estudando Machine Learning e Estatistica
 - 👩‍💻 Adoro tecnologia, Inovação e Ciência de dados
+- 📧 Fale comigo: patriciatamiresdesousa@gmail.com
 - 😄 Pronouns: Ela/ Dela
 
 <div align="center">
