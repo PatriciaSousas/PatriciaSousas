@@ -20,6 +20,7 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Amazon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+
   <img align="center" alt="Rafa-Anaconda" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">
   <img align="center" alt="Rafa-Pytorch" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg">
