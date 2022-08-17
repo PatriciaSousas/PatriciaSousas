@@ -13,11 +13,14 @@
   <a href = "mailto:patriciatamiresdesousa@gmail.com.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/patricia-sousas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-<div align="center">
+
+ 
+ <div align="center">
   <a href="https://github.com/PatriciaSousas">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=PatriciaSousas&show_icons=true&theme=aquamarinered&include_all_commits=true&count_private=true"/>
  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatriciaSousas&layout=compact&langs_count=7&theme=aquamarine"/>
 </div>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Anaconda" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg">
@@ -28,3 +31,4 @@
   <img align="center" alt="Rafa-R" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg">
   <img align="center" alt="Rafa-SQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
 </div>
+
