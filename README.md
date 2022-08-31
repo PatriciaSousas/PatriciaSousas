@@ -2,7 +2,7 @@
 ### Oi! Eu sou a Patricia 
 
 
-- 🔭Atualmente Data Science & Data Analyst na ALMAPBBDO
+- 🔭 Data Science & Data Analyst na ALMAPBBDO
 - 🌱 Estudando Machine Learning e Estatistica
 - 👩‍💻 Adoro tecnologia, Inovação e Ciência de dados
 - 📧 Fale comigo: patriciatamiresdesousa@gmail.com
