@@ -3,7 +3,7 @@
 
 
 - 🔭 Data Science & Data Analyst na ALMAPBBDO
-- 🌱 Estudando Machine Learning e Estatistica
+- 🌱 Estudando Machine Learning 
 - 👩‍💻 Adoro tecnologia, Inovação e Ciência de dados
 - 📧 Fale comigo: patriciatamiresdesousa@gmail.com
 - 😄 Pronouns: Ela/ Dela
