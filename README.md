@@ -3,16 +3,16 @@
 
 
 - 🔭 Data Science & Data Analyst na ALMAPBBDO
-- 🌱 Estudando Machine Learning 
-- 👩‍💻 Adoro tecnologia, Inovação e Ciência de dados
+- 🌱 Estudo Machine Learning 
+- 👩‍💻 Adoro tecnologia e inovação 
 - 📧 Fale comigo: patriciatamiresdesousa@gmail.com
 - 😄 Pronouns: Ela/ Dela
-
 <div align="center">
   <a href="https://github.com/PatriciaSousas">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=PatriciaSousas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatriciaSousas&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
 
 
 
