@@ -4,7 +4,7 @@ Hello World! 👩‍💻
 
 🎓Formada em Análise e desenvolvimento de sistemas
 
-🤖IBM Machine Learning Professional Certificate
+🤖 IBM Machine Learning Professional Certificate Intermediate Level
 
 👩‍💻 Data Science & Analyst na ALMAPBBDO
 
