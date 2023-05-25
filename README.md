@@ -14,5 +14,3 @@ Hello friend! 👩‍💻
 
 💻 Áreas de interesse: data science, machine learning, deep learning, estatística, processamento de linguagem natural, análise de dados...
 
-
-💭 "Opte por aquilo que faz o seu coração vibrar, apesar de todas as consequências." - Osho
