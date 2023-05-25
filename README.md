@@ -1,6 +1,6 @@
 
 
-Hello World! 👩‍💻
+Hello friend! 👩‍💻
 
 🎓Formada em Análise e desenvolvimento de sistemas
 
