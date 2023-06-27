@@ -6,8 +6,6 @@ Hello friend! 👩‍💻
 
 🤖 IBM Machine Learning Professional Certificate Intermediate Level
 
-👩‍💻 Data Science & Analyst na ALMAPBBDO
-
 🧠 Paixão tecnologia e inovação
 
 👅 Linguagens: Python, R, SQL
